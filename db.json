@@ -33,19 +33,5 @@
 		"basePrice": 10.5,
 		"description": "It's the pizza you grew up with, but Blazing hot!",
 		"imageUrl": "img/pizzas/pepperoni.jpg"
-	},
-	{
-		"id": 1,
-		"name": "Basic Cheese Pizza",
-		"basePrice": 9.99,
-		"description": "It's cheesy and delicious. Why wouldn't you want one?",
-		"imageUrl": "img/pizzas/cheese.jpg"
-	},
-	{
-		"id": 8,
-		"name": "Margherita",
-		"basePrice": 9.99,
-		"description": "Traditional Italian pizza with tomatoes and basil",
-		"imageUrl": "img/pizzas/margherita.jpg"
 	}
 ]
