@@ -1,37 +1,53 @@
-[
-	{
-		"id": 4,
-		"name": "Buffalo chicken",
-		"basePrice": 12.75,
-		"description": "Spicy chicken, hot sauce and bleu cheese, guaranteed to warm you up",
-		"imageUrl": "img/pizzas/meaty.jpg"
-	},
-	{
-		"id": 2,
-		"name": "The Baconatorizor",
-		"basePrice": 11.99,
-		"description": "It has EVERY kind of bacon",
-		"imageUrl": "img/pizzas/bacon.jpg"
-	},
-	{
-		"id": 7,
-		"name": "Veggie Delight",
-		"basePrice": 11.5,
-		"description": "It's like salad, but on a pizza",
-		"imageUrl": "img/pizzas/salad.jpg"
-	},
-	{
-		"id": 5,
-		"name": "Mushroom Lovers",
-		"basePrice": 11,
-		"description": "It has mushrooms. Isn't that obvious?",
-		"imageUrl": "img/pizzas/mushroom.jpg"
-	},
-	{
-		"id": 3,
-		"name": "Classic pepperoni",
-		"basePrice": 10.5,
-		"description": "It's the pizza you grew up with, but Blazing hot!",
-		"imageUrl": "img/pizzas/pepperoni.jpg"
-	}
-]
+{
+	"specials": [
+		{
+			"id": 4,
+			"name": "Buffalo chicken",
+			"basePrice": 12.75,
+			"description": "Spicy chicken, hot sauce and bleu cheese, guaranteed to warm you up",
+			"imageUrl": "img/pizzas/meaty.jpg"
+		},
+		{
+			"id": 2,
+			"name": "The Baconatorizor",
+			"basePrice": 11.99,
+			"description": "It has EVERY kind of bacon",
+			"imageUrl": "img/pizzas/bacon.jpg"
+		},
+		{
+			"id": 7,
+			"name": "Veggie Delight",
+			"basePrice": 11.5,
+			"description": "It's like salad, but on a pizza",
+			"imageUrl": "img/pizzas/salad.jpg"
+		},
+		{
+			"id": 5,
+			"name": "Mushroom Lovers",
+			"basePrice": 11,
+			"description": "It has mushrooms. Isn't that obvious?",
+			"imageUrl": "img/pizzas/mushroom.jpg"
+		},
+		{
+			"id": 3,
+			"name": "Classic pepperoni",
+			"basePrice": 10.5,
+			"description": "It's the pizza you grew up with, but Blazing hot!",
+			"imageUrl": "img/pizzas/pepperoni.jpg"
+		},
+		{
+			"id": 1,
+			"name": "Basic Cheese Pizza",
+			"basePrice": 9.99,
+			"description": "It's cheesy and delicious. Why wouldn't you want one?",
+			"imageUrl": "img/pizzas/cheese.jpg"
+		},
+		{
+			"id": 8,
+			"name": "Margherita",
+			"basePrice": 9.99,
+			"description": "Traditional Italian pizza with tomatoes and basil",
+			"imageUrl": "img/pizzas/margherita.jpg"
+		}
+	]
+}
